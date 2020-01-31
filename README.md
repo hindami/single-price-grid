@@ -4,8 +4,8 @@ Challenge from frontendmentor.io
 
 Single price grid component
 
-level : Newbie
+Level : Newbie
 
-live web: https://hindami.github.io/single-price-grid/
+Live Web : https://hindami.github.io/single-price-grid/
 
 
