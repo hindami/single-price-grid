@@ -1,5 +1,11 @@
-# single-price-grid
+# Single price grid component
 
-Front End Challenge from frontendmentor.io
-Level: Newbie
+Challenge from frontendmentor.io
+
+Single price grid component
+
+level : Newbie
+
+live web: https://hindami.github.io/single-price-grid/
+
 
