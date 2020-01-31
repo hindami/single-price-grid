@@ -6,6 +6,6 @@ Single price grid component
 
 Level : Newbie
 
-Live Web : https://hindami.github.io/single-price-grid/
+Live Site : https://hindami.github.io/single-price-grid/
 
 
